@@ -1,9 +1,4 @@
-package javaforQA;
-
-import java.util.Arrays;
-import java.util.Scanner;
-
-public class MyClass extends MyClassP {
+public class JavaBasicsPractice {
 	
 		
 	 public static void main(String[] args) {
